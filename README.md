@@ -1,6 +1,9 @@
 # Timeline Visualization (React assessment)
 
 A React app for visualizing items on a timeline with compact lane arrangement.
+![Apr-09-2025 19-16-12](https://github.com/user-attachments/assets/665a43b2-7d85-4517-98a0-98490f348b07)
+
+
 
 ## Features
 
@@ -20,6 +23,7 @@ A React app for visualizing items on a timeline with compact lane arrangement.
 - **Interactive Features**: The timeline supports zooming, dragging to adjust dates, and inline editing, making it a fully interactive component.
 - **Visual Clarity**: The timeline provides clear visual cues with month labels and appropriate spacing.
 - **Responsive Design**: The component adapts to different screen sizes while maintaining usability.
+- **Unit test**: Some importants unit test to assegure that system works
 - **Theme Support**: The component fully supports light and dark themes with appropriate color adjustments.
 - **Modern UI**: The 3D background and animations create a visually appealing and modern user experience.
 
@@ -30,6 +34,7 @@ A React app for visualizing items on a timeline with compact lane arrangement.
 - **Date Handling**: I would add more robust date validation and handling of edge cases.
 - **State Management**: For a larger application, I might move state management to a context or Redux for better organization.
 - **3D Background Optimization**: Further optimize the 3D background for better performance on lower-end devices.
+- **Unit test**: Add more unit tests
 
 ## How to Run
 
