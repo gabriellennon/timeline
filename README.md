@@ -30,6 +30,7 @@ A React app for visualizing items on a timeline with compact lane arrangement.
 ### What I Would Change
 
 - **Performance Optimization**: For large datasets, I would implement virtualization to render only visible items.
+- **Add e2e test**: Add e2e tests to ensures the full app flow works correctly, improving reliability and user trust.
 - **Accessibility**: I would enhance keyboard navigation and screen reader support.
 - **Date Handling**: I would add more robust date validation and handling of edge cases.
 - **State Management**: For a larger application, I might move state management to a context or Redux for better organization.
@@ -42,6 +43,7 @@ A React app for visualizing items on a timeline with compact lane arrangement.
 2. Install dependencies: \`npm install\`
 3. Run the development server: \`npm start\`
 4. Open [http://localhost:1234](http://localhost:1234) in your browser
+5. To run test \`npm run test\`
 
 ## Technologies Used
 
